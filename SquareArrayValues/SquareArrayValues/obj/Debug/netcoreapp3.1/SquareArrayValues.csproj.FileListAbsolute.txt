@@ -1,0 +1,12 @@
+C:\Users\ABAYOMI\Source\Repos\session15\SquareArrayValues\SquareArrayValues\bin\Debug\netcoreapp3.1\SquareArrayValues.exe
+C:\Users\ABAYOMI\Source\Repos\session15\SquareArrayValues\SquareArrayValues\bin\Debug\netcoreapp3.1\SquareArrayValues.deps.json
+C:\Users\ABAYOMI\Source\Repos\session15\SquareArrayValues\SquareArrayValues\bin\Debug\netcoreapp3.1\SquareArrayValues.runtimeconfig.json
+C:\Users\ABAYOMI\Source\Repos\session15\SquareArrayValues\SquareArrayValues\bin\Debug\netcoreapp3.1\SquareArrayValues.runtimeconfig.dev.json
+C:\Users\ABAYOMI\Source\Repos\session15\SquareArrayValues\SquareArrayValues\bin\Debug\netcoreapp3.1\SquareArrayValues.dll
+C:\Users\ABAYOMI\Source\Repos\session15\SquareArrayValues\SquareArrayValues\bin\Debug\netcoreapp3.1\SquareArrayValues.pdb
+C:\Users\ABAYOMI\Source\Repos\session15\SquareArrayValues\SquareArrayValues\obj\Debug\netcoreapp3.1\SquareArrayValues.csproj.CoreCompileInputs.cache
+C:\Users\ABAYOMI\Source\Repos\session15\SquareArrayValues\SquareArrayValues\obj\Debug\netcoreapp3.1\SquareArrayValues.AssemblyInfoInputs.cache
+C:\Users\ABAYOMI\Source\Repos\session15\SquareArrayValues\SquareArrayValues\obj\Debug\netcoreapp3.1\SquareArrayValues.AssemblyInfo.cs
+C:\Users\ABAYOMI\Source\Repos\session15\SquareArrayValues\SquareArrayValues\obj\Debug\netcoreapp3.1\SquareArrayValues.dll
+C:\Users\ABAYOMI\Source\Repos\session15\SquareArrayValues\SquareArrayValues\obj\Debug\netcoreapp3.1\SquareArrayValues.pdb
+C:\Users\ABAYOMI\Source\Repos\session15\SquareArrayValues\SquareArrayValues\obj\Debug\netcoreapp3.1\SquareArrayValues.genruntimeconfig.cache

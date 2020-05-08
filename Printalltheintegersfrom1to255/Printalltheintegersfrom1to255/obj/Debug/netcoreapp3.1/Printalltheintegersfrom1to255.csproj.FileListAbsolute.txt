@@ -1,0 +1,13 @@
+C:\Users\ABAYOMI\Source\Repos\session15\Printalltheintegersfrom1to255\Printalltheintegersfrom1to255\bin\Debug\netcoreapp3.1\Printalltheintegersfrom1to255.exe
+C:\Users\ABAYOMI\Source\Repos\session15\Printalltheintegersfrom1to255\Printalltheintegersfrom1to255\bin\Debug\netcoreapp3.1\Printalltheintegersfrom1to255.deps.json
+C:\Users\ABAYOMI\Source\Repos\session15\Printalltheintegersfrom1to255\Printalltheintegersfrom1to255\bin\Debug\netcoreapp3.1\Printalltheintegersfrom1to255.runtimeconfig.json
+C:\Users\ABAYOMI\Source\Repos\session15\Printalltheintegersfrom1to255\Printalltheintegersfrom1to255\bin\Debug\netcoreapp3.1\Printalltheintegersfrom1to255.runtimeconfig.dev.json
+C:\Users\ABAYOMI\Source\Repos\session15\Printalltheintegersfrom1to255\Printalltheintegersfrom1to255\bin\Debug\netcoreapp3.1\Printalltheintegersfrom1to255.dll
+C:\Users\ABAYOMI\Source\Repos\session15\Printalltheintegersfrom1to255\Printalltheintegersfrom1to255\bin\Debug\netcoreapp3.1\Printalltheintegersfrom1to255.pdb
+C:\Users\ABAYOMI\Source\Repos\session15\Printalltheintegersfrom1to255\Printalltheintegersfrom1to255\obj\Debug\netcoreapp3.1\Printalltheintegersfrom1to255.csprojAssemblyReference.cache
+C:\Users\ABAYOMI\Source\Repos\session15\Printalltheintegersfrom1to255\Printalltheintegersfrom1to255\obj\Debug\netcoreapp3.1\Printalltheintegersfrom1to255.csproj.CoreCompileInputs.cache
+C:\Users\ABAYOMI\Source\Repos\session15\Printalltheintegersfrom1to255\Printalltheintegersfrom1to255\obj\Debug\netcoreapp3.1\Printalltheintegersfrom1to255.AssemblyInfoInputs.cache
+C:\Users\ABAYOMI\Source\Repos\session15\Printalltheintegersfrom1to255\Printalltheintegersfrom1to255\obj\Debug\netcoreapp3.1\Printalltheintegersfrom1to255.AssemblyInfo.cs
+C:\Users\ABAYOMI\Source\Repos\session15\Printalltheintegersfrom1to255\Printalltheintegersfrom1to255\obj\Debug\netcoreapp3.1\Printalltheintegersfrom1to255.dll
+C:\Users\ABAYOMI\Source\Repos\session15\Printalltheintegersfrom1to255\Printalltheintegersfrom1to255\obj\Debug\netcoreapp3.1\Printalltheintegersfrom1to255.pdb
+C:\Users\ABAYOMI\Source\Repos\session15\Printalltheintegersfrom1to255\Printalltheintegersfrom1to255\obj\Debug\netcoreapp3.1\Printalltheintegersfrom1to255.genruntimeconfig.cache
